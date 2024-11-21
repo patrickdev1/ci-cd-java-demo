@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello, CI/CD with GitHub Actions!");
 
         System.out.println("Sorted Array: " + Arrays.toString(sortArray(new int[]{5, 3, 1, 8, 1, 2})));
+        System.out.println("Teste");
     }
 
     public static int[] sortArray(int[] numbers) {
